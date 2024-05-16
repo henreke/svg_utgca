@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg viewBox="0 0 500 670" xmlns="http://www.w3.org/2000/svg">
-  <g>
+<svg viewBox="0 0 477 567" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(2.4736549854278564, 0, 0, 2.6809778213500977, -314.9385681152344, -305.2630615234375)" style="">
     <rect x="169.101" y="269.462" width="10.249" height="55.086" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
     <rect x="271.587" y="268.744" width="10.249" height="55.086" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
     <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="224.188" cy="206.252" rx="94.799" ry="90.956"/>
